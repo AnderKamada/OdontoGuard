@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OdontoGuard</string>
+    <string name="title_activity_tarefas">TarefasActivity</string>
+    <string name="title_activity_envio_foto">EnvioFotoActivity</string>
+    <string name="title_activity_feedback">FeedbackActivity</string>
+    <string name="title_activity_recompensas">RecompensasActivity</string>
+</resources>
